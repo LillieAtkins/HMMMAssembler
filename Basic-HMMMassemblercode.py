@@ -1,11 +1,3 @@
-"""
-CS101
-HW7
-Lillie Atkins
-Lab X
-October 31, 2017
-"""
-
 import hmmmAssembler
 
 #GCD
